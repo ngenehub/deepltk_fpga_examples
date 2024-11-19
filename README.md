@@ -1,2 +1,2 @@
-# deepltk_fpga_examples
-Set of examples for DeepLTK FPGA Add-On
+# DeepLTK FPGA Add-On Examples 
+This repository contains list of examples based on DeepLTK FPGA Add-On.
